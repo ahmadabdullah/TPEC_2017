@@ -1,0 +1,147 @@
+% Encoding: UTF-8
+
+@Book{warrington2012protective,
+  title     = {Protective Relays: Their Theory and Practice Volume One},
+  publisher = {Springer Science \& Business Media},
+  year      = {2012},
+  author    = {Warrington, AR van C},
+}
+
+@Book{mason1956art,
+  title     = {The art and science of protective relaying},
+  publisher = {John Wiley and Sons},
+  year      = {1956},
+  author    = {Mason, C Russel},
+}
+
+@Article{kezunovic1996detect,
+  author    = {Kezunovic, Mladen and Rikalo, Igor},
+  title     = {Detect and classify faults using neural nets},
+  journal   = {IEEE Computer Applications in Power},
+  year      = {1996},
+  volume    = {9},
+  number    = {4},
+  pages     = {42--47},
+  publisher = {IEEE},
+}
+
+@Article{robertson1996wavelets,
+  author    = {Robertson, David C and Camps, Octavia I and Mayer, Jeffrey S and Gish, William B},
+  title     = {Wavelets and electromagnetic power system transients},
+  journal   = {IEEE Transactions on Power Delivery},
+  year      = {1996},
+  volume    = {11},
+  number    = {2},
+  pages     = {1050--1058},
+  publisher = {IEEE},
+}
+
+@Article{gaouda2002wavelet,
+  author    = {Gaouda, AM and Kanoun, SH and Salama, MMA and Chikhani, AY},
+  title     = {Wavelet-based signal processing for disturbance classification and measurement},
+  journal   = {IEE Proceedings-Generation, Transmission and Distribution},
+  year      = {2002},
+  volume    = {149},
+  number    = {3},
+  pages     = {310--318},
+  publisher = {IET},
+}
+
+@Article{gaouda2000application,
+  author    = {Gaouda, AM and Salama, MMA and Sultan, MR and Chikhani, AY},
+  title     = {Application of multiresolution signal decomposition for monitoring short-duration variations in distribution systems},
+  journal   = {IEEE Transactions on Power Delivery},
+  year      = {2000},
+  volume    = {15},
+  number    = {2},
+  pages     = {478--485},
+  publisher = {IEEE},
+}
+
+@Article{gaouda1999power,
+  author  = {Gaouda, AM and Salama, MMA and Sultan, MR and Chikhani, AY and others},
+  title   = {Power quality detection and classification using wavelet-multiresolution signal decomposition},
+  journal = {IEEE Transactions on Power Delivery},
+  year    = {1999},
+  volume  = {14},
+  number  = {4},
+  pages   = {1469--1476},
+}
+
+@Misc{,
+}
+
+@Article{santoso1996power,
+  author    = {Santoso, Surya and Powers, Edward J and Grady, W Mack and Hofmann, Peter},
+  title     = {Power quality assessment via wavelet transform analysis},
+  journal   = {IEEE transactions on Power Delivery},
+  year      = {1996},
+  volume    = {11},
+  number    = {2},
+  pages     = {924--930},
+  publisher = {IEEE},
+}
+
+@Article{ibrahim2002artificial,
+  author    = {Ibrahim, WR Anis and Morcos, Medhat M},
+  title     = {Artificial intelligence and advanced mathematical tools for power quality applications: a survey},
+  journal   = {IEEE Transactions on Power Delivery},
+  year      = {2002},
+  volume    = {17},
+  number    = {2},
+  pages     = {668--673},
+  publisher = {IEEE},
+}
+
+@InProceedings{dong2008research,
+  author       = {Dong, Xiucheng and Han, Han and Shu, Mei},
+  title        = {Research of bus protection based on artificial neural network},
+  booktitle    = {Intelligent Control and Automation, 2008. WCICA 2008. 7th World Congress on},
+  year         = {2008},
+  pages        = {4261--4264},
+  organization = {IEEE},
+}
+
+@InProceedings{perera2011wavelet,
+  author    = {Perera, N and Rajapakse, AD and Muthumuni, D},
+  title     = {Wavelet based transient directional method for busbar protection},
+  booktitle = {International conference on power systems transients},
+  year      = {2011},
+}
+
+@Book{boggess2015first,
+  title     = {A first course in wavelets with Fourier analysis},
+  publisher = {John Wiley \& Sons},
+  year      = {2015},
+  author    = {Boggess, Albert and Narcowich, Francis J},
+}
+
+@Article{hedman1965propagation,
+  author    = {Hedman, DE},
+  title     = {Propagation on overhead transmission lines I-theory of modal analysis},
+  journal   = {IEEE Transactions on Power Apparatus and Systems},
+  year      = {1965},
+  volume    = {84},
+  number    = {3},
+  pages     = {200--205},
+  publisher = {IEEE},
+}
+
+@Book{zurada1992introduction,
+  title     = {Introduction to artificial neural systems},
+  publisher = {West St. Paul},
+  year      = {1992},
+  author    = {Zurada, Jacek M},
+  volume    = {8},
+}
+
+@Article{redfern2003laboratory,
+  author    = {Redfern, MA and Terry, SC and Robinson, FVP and Bo, ZQ},
+  title     = {Laboratory investigation into the use of MV current transformers for transient based protection},
+  journal   = {ISPT2003},
+  year      = {2003},
+  pages     = {1--5},
+  publisher = {University of Bath},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
