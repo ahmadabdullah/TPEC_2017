@@ -1,0 +1,19 @@
+Reviewers’ comments
+Please make sure you revise based on all reviewers’ comment.
+ 
+Reviewer 1
+This paper presents a new application of wavelet based artificial neural networks to the field of high voltage busbar protection. The contribution of this paper would be clearer if the following factors are properly addressed.
+1.      This paper clearly presents the preparation of training data sets. How about testing sets? Probably, 90% of original data set is used as the training data while the remaining is used as testing cases.
+2.      In addition to fault, how the proposed method behave if contingencies are considered?
+3.      Sensitivity studies on model parameters, data sets division for training and testing, and some other factors are also of interest.
+ 
+Reviewer 2
+Sentences are hard to read. They need to be revised, such as Section II, paragraph 2
+In the same paragraph, what’s the meaning of maximum frequency in the EMTP simulation?
+More explanation is needed on why the change in level 3 can be used to detect the event
+III-C-1st paragraph: why it is clear that using two modes instead of three-phase quantities makes the proposed approach faster and requires less computational power? Is the fault always three-phase balanced fault? The authors use single and two-phase fault in the lie fault cases. Will the proposed method have worse performance for these non-three-phase fault?
+ 
+More information for the case studies of IV-A,B,C. What do the authors mean by classification?
+How is the backup protection achieved by the proposed method?
+ 
+ 
